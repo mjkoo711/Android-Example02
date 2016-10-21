@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rotate
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fromDegrees="0"
+    android:toDegrees="360"
+    android:duration="10000"
+    android:pivotX="50%"
+    android:pivotY="50%">
+
+    <!-- android:fromDefrees : 시작하는 회전각도
+        android:toDegrees : 회전을 끝내는 각도
+        android:pivotX : 회전중심축 x
+        android:pivotY : 회전중심축 y
+        -->
+
+
+</rotate>

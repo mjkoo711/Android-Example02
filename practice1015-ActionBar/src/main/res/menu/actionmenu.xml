@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_settings"
+        android:title="SETTING"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/item01"
+        android:title="ICon"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/item02"
+        android:title="Share02"
+        app:showAsAction="ifRoom"
+        />
+
+
+    <!--ifRoom : 액션바에 공간이 있다면 보이도록함
+        Never : 액션바의 공간과 상관없이 무조건 숨겨져 있도록 함 default
+        always : 항상보이게함
+        withText: 텍스트와 아이콘이 같이보이게함-->
+</menu>
