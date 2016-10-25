@@ -1,1 +1,1 @@
-include ':app', ':practice1015-ActionBar', ':practice1015-Graphic', ':practice1015-Animation', ':practice1015-TweenAnimation', ':practice1015-SurfaceView', ':practice1015-Exercise01'
+include ':app', ':practice1015-ActionBar', ':practice1015-Graphic', ':practice1015-Animation', ':practice1015-TweenAnimation', ':practice1015-SurfaceView', ':practice1015-Exercise01', ':practice1022-Internal', ':practice1022-Internal', ':practice1022-External', ':practice1022-MyDB'
